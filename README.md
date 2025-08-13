@@ -69,7 +69,7 @@ Elements are arranged in a circle, with values represented by the size of each d
 ## 🛠️ Setup Instructions
 
 ### Method 1: Direct Download
-1. Visit https://github.com/aditya301cs/Sorting_Visualizer
+1. Visit https://github.com/Kaushal-Kushwaha-0007/Sorting_Visualiser
 2. Click the green "Code" button and select "Download ZIP"
 3. Extract the ZIP file to your desired location
 4. Open `index.html` in your web browser
